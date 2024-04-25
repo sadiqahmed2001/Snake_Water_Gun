@@ -1,5 +1,7 @@
 # Snake_Water_Gun
 simple "Snake Water Gun" game where the user can choose their option (Snake, Water, or Gun) either by typing it into an input field or by clicking buttons.
+
+
 <!DOCTYPE html>: Declares the document type and version of HTML.
 <html lang="en">: Defines the root element of the HTML document with the language set to English.
 <head>: Contains meta-information about the HTML document, such as character encoding and viewport settings.
@@ -33,8 +35,3 @@ Finally, there's a <script> tag containing JavaScript code:
 
 function play() { ... }: Defines the play() function, which is called when the user clicks the "Play" button or any of the choice buttons. This function determines the result of the game based on the user's choice and the computer's randomly generated choice, and displays the result on the page.
 Overall, this code creates a simple game interface for playing the "Snake Water Gun" game.
-
-
-
-
-
